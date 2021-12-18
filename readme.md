@@ -1,5 +1,9 @@
 Risk = Probability x Effect
 
+Lezen:
+- https://cjr.ufv.ca/fire-risk-assessment-model-for-residential-buildings-using-bow-tie-method/
+- 
+
 ### Probability bestaat uit: ###
 - Welke bron van vuur is aanwezig in welk pand
         <br >
