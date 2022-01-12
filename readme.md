@@ -61,3 +61,18 @@ __4. Reputation__
 __5. Infrastructuur__
 
 * Impact op OV? Impact op wegafzettingen? Connecten met project van vorig jaar? OV APIs?
+* Rookbeheersing parkeergarages in de buurt van wonigen controleren: https://docplayer.nl/46738328-Rookbeheersing-van-mechanisch-geventileerde-parkeergarages-volgens-nen-6098.html https://docplayer.nl/6697545-Brandveiligheid-parkeergarages.html
+* Wegafzettingen door brand: files https://docplayer.nl/6697545-Brandveiligheid-parkeergarages.html
+* Eenrichtingsverkeer en in geval van wegwerkzaamheden.
+* Het infrastructuur moet zelf ook veilig zijn: is de Noord/Zuidlijn brandveilig genoeg? https://www.parool.nl/amsterdam/vragen-over-brandveiligheid-noord-zuidlijn-als-je-niet-weet-of-het-veilig-is-is-het-niet-veilig~b8e9b819/ 
+* Communicatiemiddel infrastructuur Noord/Zuidlijn inzetbaar voor het geval er een brand uitbreekt in de omgeving van de stations.
+* Zijn de tunnels veilig in de buurt van woningen? Zijn er genoeg nooduitgangen? Het bestrijden van brand in de battery pack van elektrische bussen is moeilijker dan brand van de dieselvoorraad bij dieselbussen. De slechte bereikbaarheid van het battery pack en
+benodigde tijdsduur om batterijcellen voldoende terug te koelen vergen een grote
+hoeveelheid bluswater en langere inzetduur. Tunnels zullen de bestrijding van gevolgen van
+branden met elektrisch bussen verder bemoeilijken. Echter, zoals hierboven reeds
+aangeduid zal bij een brand van de battery pack naar waarschijnlijkheid minder energie
+vrijkomen en een stuk trager ontwikkelen dan een koolwaterstof brand (brand van de
+dieselinhoud van de dieselbus), wat ruimere mogelijkheden biedt voor de brandbestrijding.
+https://www.ifv.nl/kennisplein/Documents/20160930-IFV-Brandveiligheid-elektrische-bussen.pdf
+* Oostlijn veiligheidsonderzoek opvragen https://crisislab.nl/aanvullende-analyse-brandveiligheid-oostlijn-amsterdam/
+
