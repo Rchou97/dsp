@@ -50,7 +50,7 @@ __4. Reputation__
 * Historisch / monument / musea / etc
 * Bij verbouwing of herbestemming van een monument moet er worden voldaan aan de functionele eisen van het Bouwbesluit. Het nemen van de juiste 
   preventiemaatregelen vraagt om maatwerk en inzicht in de monumentale waarden.  (https://www.cultureelerfgoed.nl/onderwerpen/veilig-erfgoed/veiligheidszorg/brand/brandpreventie-en-monumenten)
-* Bij grotere monumenten zoals kastelen, kerken of buitenplaatsen, is het inschakelen van een brandveiligheidsexpert absoluut aan te raden.
+* Bij grotere monumenten zoals kastelen, kerken of buitenplaatsen, wordt het inschakelen van een brandveiligheidsexpert aangeraden.
 
 __5. Infrastructuur__
 
