@@ -48,6 +48,8 @@ __3. Environment__
 __4. Reputation__
 
 * Historisch / monument / musea / etc
+* Bij verbouwing of herbestemming van een monument moet er worden voldaan aan de functionele eisen van het Bouwbesluit. Het nemen van de juiste 
+  preventiemaatregelen vraagt om maatwerk en inzicht in de monumentale waarden.  (https://www.cultureelerfgoed.nl/onderwerpen/veilig-erfgoed/veiligheidszorg/brand/brandpreventie-en-monumenten)
 
 __5. Infrastructuur__
 
