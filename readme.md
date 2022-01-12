@@ -54,7 +54,7 @@ __4. Reputation__
 * Historisch
   * Bij grotere monumenten zoals kastelen, kerken of buitenplaatsen, wordt het inschakelen van een brandveiligheidsexpert aangeraden:  (https://www.cultureelerfgoed.nl/onderwerpen/veilig-erfgoed/veiligheidszorg/brand/brandpreventie-en-monumenten)
 * Musea
-  * Formule voor de risico's voor een specifiek gevaar wordt berekend met Risk = Likelihood x Consequence
+  * De risico's voor een specifiek gevaar wordt berekend met de volgende formule Risk = Likelihood x Consequence
   * Control levels dat bestaat uit 6 stappen: Vermijden, blokkeren, Detecteren, Reageren, Opleiden en Procedures
   * (https://www.researchgate.net/publication/228905911_Fire_risk_assessment_for_collections_in_museums)
 
