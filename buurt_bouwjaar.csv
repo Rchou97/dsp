@@ -1,0 +1,476 @@
+,Wijken en buurten,Bouwjaar voor 2000,Bouwjaar vanaf 2000
+1,Kop Zeedijk,96,4
+2,Oude Kerk e.o.,87,13
+3,Burgwallen Oost,96,4
+4,Nes e.o.,98,2
+5,BG-terrein e.o.,100,0
+7,Stationsplein e.o.,.,.
+8,Hemelrijk,99,1
+9,Nieuwendijk Noord,97,3
+10,Spuistraat Noord,100,0
+11,Nieuwe Kerk e.o.,97,3
+12,Spuistraat Zuid,93,7
+13,Begijnhofbuurt,100,0
+14,Kalverdriehoek,98,2
+16,Langestraat e.o.,99,1
+17,Leliegracht e.o.,100,0
+18,Felix Meritisbuurt,99,1
+19,Leidsegracht Noord,99,1
+21,Spiegelbuurt,99,1
+22,Gouden Bocht,93,7
+23,Van Loonbuurt,97,3
+24,Amstelveldbuurt,99,1
+25,Rembrandtpleinbuurt,100,0
+26,Reguliersbuurt,94,6
+27,Leidsegracht Zuid,100,0
+29,Oosterdokseiland,4,96
+30,Scheepvaarthuisbuurt,98,2
+31,Rapenburg,96,4
+32,Lastage,98,2
+33,Nieuwmarkt,100,0
+34,Uilenburg,72,28
+35,Valkenburg,100,0
+36,Zuiderkerkbuurt,100,0
+37,Waterloopleinbuurt,96,4
+39,Westerdokseiland,0,100
+40,Haarlemmerbuurt Oost,99,1
+41,Haarlemmerbuurt West,94,6
+42,Westelijke eilanden,86,14
+43,Planciusbuurt Noord,100,0
+44,Planciusbuurt Zuid,100,0
+46,Driehoekbuurt,98,2
+47,Bloemgrachtbuurt,95,5
+48,Marnixbuurt Noord,100,0
+49,Zaagpoortbuurt,100,0
+50,Marnixbuurt Midden,100,0
+51,Elandsgrachtbuurt,96,4
+52,Passeerdersgrachtbuurt,97,3
+53,Groenmarktkadebuurt,100,0
+54,Marnixbuurt Zuid,70,30
+55,Anjeliersbuurt Noord,97,3
+56,Anjeliersbuurt Zuid,98,2
+58,Leidsebuurt Noordwest,100,0
+59,Leidsebuurt Zuidwest,95,5
+60,Leidsebuurt Noordoost,98,2
+61,Leidsebuurt Zuidoost,100,0
+62,Weteringbuurt,92,8
+63,Den Texbuurt,98,2
+64,Utrechtsebuurt Zuid,97,3
+65,Frederikspleinbuurt,92,8
+67,Weesperbuurt,98,2
+68,Sarphatistrook,88,12
+69,de Plantage,95,5
+70,Alexanderplein e.o.,100,0
+72,Marine-Etablissement,.,.
+73,Kattenburg,100,0
+74,Wittenburg,94,6
+75,Oostenburg,91,9
+76,Czaar Peterbuurt,79,21
+77,Het Funen,1,99
+78,Kazernebuurt,100,0
+79,Kadijken,92,8
+81,Coenhaven/Mercuriushaven,.,.
+82,Alfa-driehoek,.,.
+83,Petroleumhaven,.,.
+84,Westhaven Noord,.,.
+85,Vervoerscentrum,.,.
+86,Amerikahaven,.,.
+87,Afrikahaven,.,.
+88,Westhaven Zuid,.,.
+90,Sloterdijk II,.,.
+91,Sloterdijk III Oost,.,.
+92,Sloterdijk III West,17,83
+93,De Heining,.,.
+94,Teleport,29,71
+95,Bretten Oost,.,.
+96,Bretten West,.,.
+98,Houthavens West,0,100
+99,Houthavens Oost,55,45
+101,Zeeheldenbuurt,93,7
+102,Spaarndammerbuurt Noordoost,100,0
+103,Spaarndammerbuurt Zuidoost,89,11
+104,Spaarndammerbuurt Zuidwest,100,0
+105,Spaarndammerbuurt Midden,97,3
+106,Spaarndammerbuurt Noordwest,100,0
+107,Westergasfabriek,.,.
+108,Overbraker Binnenpolder,.,.
+110,De Wittenbuurt Noord,100,0
+111,De Wittenbuurt Zuid,100,0
+112,Staatsliedenbuurt Noordoost,100,0
+113,Fannius Scholtenbuurt,97,3
+114,Westerstaatsman,97,3
+115,Buyskade e.o.,66,34
+117,Ecowijk,100,0
+118,Markthallen,.,.
+119,Bedrijvencentrum Westerkwartier,.,.
+120,Marcanti,76,24
+122,Frederik Hendrikbuurt Noord,99,1
+123,Frederik Hendrikbuurt Zuidoost,91,9
+124,Frederik Hendrikbuurt Zuidwest,89,11
+126,Da Costabuurt Noord,98,2
+128,Bellamybuurt Noord,98,2
+129,Bellamybuurt Zuid,83,17
+131,Da Costabuurt Zuid,99,1
+132,Borgerbuurt,100,0
+133,Lootsbuurt,94,6
+135,Helmersbuurt Oost,99,1
+136,WG-terrein,91,9
+137,Cremerbuurt Oost,100,0
+139,Cremerbuurt West,100,0
+140,Vondelparkbuurt West,98,2
+142,Vondelparkbuurt Oost,100,0
+143,Vondelparkbuurt Midden,100,0
+145,Zuidas Noord,1,99
+146,RAI,.,.
+147,VU-kwartier,97,3
+148,Zuidas Zuid,0,100
+149,Vivaldi,0,100
+151,Hemonybuurt,99,1
+152,Gerard Doubuurt,97,3
+153,Frans Halsbuurt,98,2
+154,Hercules Seghersbuurt,97,3
+155,Sarphatiparkbuurt,98,2
+157,Willibrordusbuurt,91,9
+158,Van der Helstpleinbuurt,89,11
+159,Lizzy Ansinghbuurt,100,0
+160,Cornelis Troostbuurt,98,2
+162,Diamantbuurt,100,0
+163,Burgemeester Tellegenbuurt Oost,95,5
+164,Burgemeester Tellegenbuurt West,100,0
+166,Swammerdambuurt,89,11
+167,Weesperzijde Midden/Zuid,90,10
+168,Parooldriehoek,100,0
+170,Oosterparkbuurt Noordwest,87,13
+171,Oosterpark,100,0
+172,Oosterparkbuurt Zuidoost,99,1
+173,Oosterparkbuurt Zuidwest,94,6
+175,Dapperbuurt Noord,93,7
+176,Dapperbuurt Zuid,96,4
+177,Oostpoort,26,74
+179,Transvaalbuurt West,98,2
+180,Transvaalbuurt Oost,94,6
+182,Noordwestkwadrant Indische buurt Noord,85,15
+183,Noordwestkwadrant Indische buurt Zuid,96,4
+184,Zuidwestkwadrant Indische buurt,92,8
+186,Noordoostkwadrant Indische buurt,93,7
+187,Zuidoostkwadrant Indische buurt,91,9
+188,Zeeburgerdijk Oost,21,79
+189,Flevopark,.,.
+191,Oostelijke Handelskade,0,100
+192,Rietlanden,19,81
+193,Java-eiland,85,15
+194,KNSM-eiland,97,3
+195,Sporenburg,47,53
+196,Borneo,60,40
+197,Entrepot-Noordwest,89,11
+198,Architectenbuurt,100,0
+199,Bedrijvengebied Veelaan,.,.
+200,Bedrijvengebied Cruquiusweg,4,96
+201,Bedrijvengebied Zeeburgerkade,.,.
+203,Zeeburgereiland Noordwest,.,.
+204,Zeeburgereiland Zuidoost,0,100
+205,Zeeburgereiland Zuidwest,0,100
+206,Nieuwe Diep/Diemerpark,.,.
+207,RI Oost terrein,0,100
+208,Zeeburgereiland Noordoost,.,.
+210,Steigereiland Noord,0,100
+211,Steigereiland Zuid,0,100
+212,Haveneiland Zuidwest/Rieteiland West,0,100
+213,Haveneiland Noordwest,0,100
+214,Haveneiland Noordoost,0,100
+216,Woon- en Groengebied Sloterdijk,18,82
+217,Bedrijventerrein Sloterdijk I,.,.
+219,Bedrijventerrein Landlust,100,0
+220,Bosleeuw,94,6
+221,Landlust Zuid,100,0
+222,Erasmusparkbuurt Oost,81,19
+223,Gibraltarbuurt,100,0
+224,Landlust Noord,98,2
+226,Erasmusparkbuurt West,89,11
+227,Robert Scottbuurt Oost,99,1
+229,Robert Scottbuurt West,85,15
+230,Laan van Spartaan,0,100
+231,Kolenkitbuurt Zuid,31,69
+232,Kolenkitbuurt Noord,56,44
+234,Geuzenhofbuurt,97,3
+235,Trompbuurt,100,0
+236,Pieter van der Doesbuurt,97,3
+238,John Franklinbuurt,100,0
+239,Jan Maijenbuurt,100,0
+240,Orteliusbuurt Noord,100,0
+241,Mercatorpark,.,.
+243,Balboaplein e.o.,94,6
+244,Columbusplein e.o.,100,0
+245,Orteliusbuurt Midden,100,0
+246,Orteliusbuurt Zuid,100,0
+248,Paramariboplein e.o.,100,0
+249,Postjeskade e.o.,100,0
+251,Surinamepleinbuurt,98,2
+252,Westlandgrachtbuurt,99,1
+253,Aalsmeerwegbuurt West,100,0
+254,Aalsmeerwegbuurt Oost,99,1
+255,Legmeerpleinbuurt,96,4
+256,Bedrijventerrein Schinkel,.,.
+258,Schinkelbuurt Noord,94,6
+259,Schinkelbuurt Zuid,89,11
+261,Valeriusbuurt Oost,100,0
+262,Valeriusbuurt West,100,0
+263,Willemsparkbuurt Noord,100,0
+264,Vondelpark West,.,.
+266,Johannnes Vermeerbuurt,91,9
+267,P.C. Hooftbuurt,99,1
+268,Concertgebouwbuurt,98,2
+269,Cornelis Schuytbuurt,100,0
+270,Banpleinbuurt,99,1
+271,Hondecoeterbuurt,100,0
+272,Harmoniehofbuurt,100,0
+273,Museumplein,.,.
+274,Vondelpark Oost,.,.
+275,Duivelseiland,100,0
+277,Bertelmanpleinbuurt,100,0
+278,Marathonbuurt Oost,100,0
+279,Marathonbuurt West,100,0
+280,Olympisch Stadion e.o.,11,89
+281,IJsbaanpad e.o.,.,.
+282,Van Tuyllbuurt,100,0
+284,Diepenbrockbuurt,99,1
+285,Beethovenbuurt,100,0
+286,Hiltonbuurt,100,0
+287,Minervabuurt Noord,100,0
+288,Minervabuurt Midden,100,0
+289,Minervabuurt Zuid,100,0
+291,Strandeiland,.,.
+292,Middeneiland Zuidoost,.,.
+293,Middeneiland Zuidwest,.,.
+294,Buiteneiland,.,.
+295,Centrumeiland,.,.
+297,Rieteiland Oost,0,100
+298,Haveneiland Oost,0,100
+299,Haveneiland Noord,0,100
+301,Wielingenbuurt,100,0
+302,Scheldebuurt West,100,0
+303,Scheldebuurt Midden,100,0
+304,Scheldebuurt Oost,100,0
+305,Veluwebuurt,81,19
+306,Kop Zuidas,0,100
+308,IJselbuurt West,100,0
+309,IJselbuurt Oost,89,11
+311,Kromme Mijdrechtbuurt,98,2
+312,Rijnbuurt Oost,99,1
+313,Rijnbuurt Midden,100,0
+314,Rijnbuurt West,96,4
+315,Zorgvlied,.,.
+317,De Eenhoorn,53,47
+318,Julianapark,69,31
+319,Don Bosco,99,1
+321,Tuindorp Amstelstation,100,0
+322,De Wetbuurt,100,0
+323,Tuindorp Frankendael,79,21
+324,Van der Kunbuurt,100,0
+326,Linnaeusparkbuurt,100,0
+327,Middenmeer Noord,100,0
+328,Middenmeer Zuid,100,0
+329,Sportpark Middenmeer Zuid,100,0
+330,Sportpark Middenmeer Noord,0,100
+331,Park de Meer,0,100
+332,Sportpark Voorland,.,.
+333,Science Park Noord,0,100
+334,Science Park Zuid,1,99
+337,Nieuwe Oosterbegraafplaats,.,.
+338,Drieburg,.,.
+340,Weespertrekvaart,3,97
+341,Amstelglorie,.,.
+342,Overamstel,.,.
+343,Amstelkwartier Noord,0,100
+344,De Omval,94,6
+345,Amstelkwartier Zuid,.,.
+346,Amstelkwartier West,27,73
+348,Prinses Irenebuurt,100,0
+349,Beatrixpark,.,.
+351,Van der Pekbuurt,98,2
+352,Bloemenbuurt Zuid,100,0
+353,Bloemenbuurt Noord,100,0
+355,IJplein e.o.,100,0
+356,Vogelbuurt Zuid,94,6
+357,Vogelbuurt Noord,100,0
+358,Vliegenbos,5,95
+360,Tuindorp Nieuwendam West,100,0
+361,Tuindorp Nieuwendam Oost,100,0
+363,Blauwe Zand,100,0
+365,Buiksloterdijk West,81,19
+366,Buiksloterdijk Oost,96,4
+367,Nieuwendammerdijk West,97,3
+368,Nieuwendammerdijk Oost,88,12
+369,Nieuwendammerdijk Zuid,.,.
+371,Tuindorp Oostzaan West,100,0
+372,Tuindorp Oostzaan Oost,100,0
+373,Terrasdorp,92,8
+374,De Bongerd,0,100
+376,Oostzanerdijk,88,12
+377,Walvisbuurt,95,5
+378,Twiske West,98,2
+379,Noorder IJplas,.,.
+380,Molenwijk,100,0
+381,Circus/Kermisbuurt,92,8
+384,Twiske Oost,100,0
+386,Baanakkerspark Noord,100,0
+387,Baanakkerspark Zuid,100,0
+388,Werengouw Midden,82,18
+389,Markengouw Midden,61,39
+390,Markengouw Zuid,86,14
+391,Werengouw Zuid,100,0
+393,Rode Kruisbuurt,99,1
+394,Loenermark,100,0
+395,Buikslotermeerplein,61,39
+396,Plan van Gool,100,0
+397,De Kleine Wereld,100,0
+398,Buikslotermeer Noord,100,0
+400,Banne Zuidwest,70,30
+401,Banne Zuidoost,68,32
+402,Banne Noordwest,100,0
+403,Banne Noordoost,100,0
+404,Buiksloterbreek,100,0
+405,Marjoleinterrein,69,31
+407,Papaverweg e.o.,8,92
+408,Cornelis Douwesterrein,.,.
+409,NDSM terrein,0,100
+410,Buiksloterham,3,97
+411,Overhoeks,0,100
+413,Bedrijventerrein Hamerstraat,37,63
+414,Zamenhofstraat e.o.,.,.
+415,Bedrijventerrein Nieuwendammerdijk,.,.
+417,Schellingwoude West,71,29
+418,Schellingwoude Oost,80,20
+419,Schellingwoude Noord,.,.
+420,Durgerdam,83,17
+421,Zwarte Gouw,.,.
+422,Ransdorp,85,15
+423,Holysloot,72,28
+424,Zunderdorp,68,32
+425,Noorderstrook West,.,.
+426,Noorderstrook Oost,.,.
+428,Nintemanterrein,100,0
+429,Elzenhagen Zuid,0,100
+430,Elzenhagen Noord,39,61
+431,Chassébuurt,90,10
+432,Kortenaerkwartier,99,1
+433,Filips van Almondekwartier,79,21
+434,De Wester Quartier,87,13
+435,Van Brakelkwartier,92,8
+437,Buurt 3,97,3
+438,Buurt 2,91,9
+440,Slotermeer Zuid,100,0
+441,Noordoever Sloterplas,89,11
+442,Buurt 4 Oost,87,13
+443,Buurt 5 Noord,98,2
+444,Sloterpark,0,100
+445,Buurt 5 Zuid,88,12
+447,Buurt 6,94,6
+448,Buurt 7,62,38
+449,Buurt 8,47,53
+450,Buurt 9,52,48
+451,Eendrachtspark,100,0
+453,Osdorper Binnenpolder,.,.
+454,Buurt 10,100,0
+456,Ookmeer,.,.
+457,Osdorper Bovenpolder,76,24
+458,Bedrijvenpark Lutkemeer,54,46
+460,Wildeman,96,4
+461,Meer en Oever,45,55
+462,Osdorpplein e.o.,68,32
+463,Calandlaan/Lelylaan,85,15
+464,Osdorp Zuidoost,98,2
+466,Osdorp Midden Noord,61,39
+467,Osdorp Midden Zuid,60,40
+468,Zuidwestkwadrant Osdorp Noord,30,70
+469,Zuidwestkwadrant Osdorp Zuid,23,77
+472,Bedrijvencentrum Osdorp,7,93
+475,De Aker West,93,7
+476,De Aker Oost,62,38
+478,Oostoever Sloterplas,99,1
+479,Emanuel van Meterenbuurt,100,0
+480,Jacob Geelbuurt,95,5
+482,Overtoomse Veld Noord,47,53
+483,Overtoomse Veld Zuid,38,62
+484,Rembrandtpark Noord,100,0
+485,Rembrandtpark Zuid,100,0
+486,Johan Jongkindbuurt,100,0
+487,Lucas/Andreasziekenhuis e.o.,0,100
+489,Koningin Wilhelminaplein,65,35
+490,Andreasterrein,3,97
+491,Delflandpleinbuurt Oost,80,20
+492,Delflandpleinbuurt West,51,49
+493,Riekerhaven,0,100
+494,Schipluidenbuurt,1,99
+496,Riekerpolder,.,.
+497,Park Haagseweg,92,8
+498,Nieuwe Meer,.,.
+499,Sloterweg e.o.,84,16
+500,Nieuw Sloten Noordwest,100,0
+501,Nieuw Sloten Noordoost,100,0
+502,Belgiëplein e.o.,100,0
+503,Nieuw Sloten Zuidwest,100,0
+504,Nieuw Sloten Zuidoost,91,9
+505,Dorp Sloten,88,12
+507,Louis Chrispijnbuurt,86,14
+508,Jacques Veltmanbuurt,67,33
+509,Staalmanbuurt,43,57
+510,Medisch Centrum Slotervaart,62,38
+512,Gelderlandpleinbuurt,93,7
+513,Buitenveldert Midden Zuid,100,0
+514,Buitenveldert Zuidwest,94,6
+515,Amsterdamse Bos,83,17
+516,Buitenveldert West Midden,62,38
+517,Zuiderhof,.,.
+519,De Klenckebuurt,88,12
+520,Buitenveldert Oost Midden,100,0
+521,Buitenveldert Zuidoost,96,4
+522,Amstelpark,.,.
+524,Hoofdcentrum Zuidoost,.,.
+525,Amstel III deel A/B Noord,.,.
+526,Amstel III deel C/D Noord,.,.
+527,Amstel III deel A/B Zuid,9,91
+528,Amstel III deel C/D Zuid,.,.
+529,AMC,.,.
+530,Hoge Dijk,.,.
+532,Venserpolder West,90,10
+533,Venserpolder Oost,97,3
+534,D-buurt,24,76
+535,F-buurt,23,77
+536,Amsterdamse Poort,65,35
+537,Hoptille,100,0
+538,Rechte H-buurt,100,0
+539,Hakfort/Huigenbos,100,0
+540,Huntum,100,0
+541,Vogeltjeswei,100,0
+542,Nelson Mandelapark,.,.
+544,E-buurt,13,87
+545,G-buurt West,71,29
+546,Bijlmermuseum Noord,63,37
+547,Kortvoort,100,0
+548,Kelbergen,100,0
+549,K-buurt Midden,52,48
+550,K-buurt Zuidoost,0,100
+551,K-buurt Zuidwest,0,100
+552,Grunder/Koningshoef,0,100
+553,G-buurt Oost,100,0
+554,Kantershof,92,8
+555,Gooise Kant,0,100
+556,G-buurt Noord,100,0
+557,Bijlmermuseum Zuid,100,0
+559,L-buurt,100,0
+560,Gaasperpark,.,.
+561,Gaasperplas,100,0
+563,Holendrecht West,100,0
+564,Reigersbos Noord,100,0
+565,Holendrecht Oost,100,0
+566,Gaasperdam Noord,98,2
+567,Gaasperdam Zuid,100,0
+568,Reigersbos Midden,100,0
+569,Reigersbos Zuid,100,0
+571,Gein Noordwest,100,0
+572,Gein Zuidwest,100,0
+573,Gein Noordoost,100,0
+574,Gein Zuidoost,100,0
+576,Dorp Driemond,94,6
+577,Landelijk gebied Driemond,32,68
